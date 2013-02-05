@@ -51,6 +51,14 @@
     border-radius: 10px;
 }
 
+.inner-content-region > p > .pull-left {
+    margin-right: 10px;
+}
+
+.inner-content-region > p > .pull-right {
+    margin-right: 10px;
+}
+
 .footer-region {
     background-color: rgba(255, 255, 255, 0.4);
     text-align: right;
