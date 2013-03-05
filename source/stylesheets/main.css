@@ -66,11 +66,16 @@
 
 .footer-region {
     background-color: rgba(255, 255, 255, 0.4);
-    text-align: right;
     padding-right: 10px;
 }
 
+.footer-region img {
+    margin: 5px;
+}
+
 .footer-region a {
+    float: right;
     margin-left: 30px;
     color: #21872c;
+    line-height: 30px;
 }
